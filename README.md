@@ -1,6 +1,8 @@
-# react-animals
+# angular-animals
 
-![React Animals](./assets/hero.png)
+Based on react-animals
+
+![Angular Animals](./assets/hero.png)
 
 A React component to add customizable animal avatars to any project. Inspired by the Google Docs "Anonymous Animals", all images designed by [Jefferson Cheng](https://jeffersoncheng.com/Anonymous-Animals) and property of Google. Images from Github repo by [wayou](https://github.com/wayou/anonymous-animals).
 
