@@ -1,0 +1,10 @@
+<div class="v-animal-avatar"
+     [style.background-color]="this.avatarStyle['--a-bg-color']"
+     [style.border-radius]="this.avatarStyle['--a-border-radius']"
+     [style.width]="this.avatarStyle['--a-size']"
+     [style.height]="this.avatarStyle['--a-size']">
+  <img
+    [src]="avatarImage"
+    [alt]="avatarName"
+    [class]="conditionalClass"/>
+</div>

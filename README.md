@@ -1,23 +1,24 @@
 # angular-animals
 
-Based on react-animals
+Based on react-animals.  A customizable animal avatar Angular component, based on the avatars used by Google Docs. 
+Modified/forked from @arvingpoddar's react-animals
 
 ![Angular Animals](./assets/hero.png)
 
-A React component to add customizable animal avatars to any project. Inspired by the Google Docs "Anonymous Animals", all images designed by [Jefferson Cheng](https://jeffersoncheng.com/Anonymous-Animals) and property of Google. Images from Github repo by [wayou](https://github.com/wayou/anonymous-animals).
+A Angular component to add customizable animal avatars to any project. Inspired by the Google Docs "Anonymous Animals", all images designed by [Jefferson Cheng](https://jeffersoncheng.com/Anonymous-Animals) and property of Google. Images from Github repo by [wayou](https://github.com/wayou/anonymous-animals).
 
 ## Installation Process
 
 Install from NPM:
 
 ```
-npm install react-animals
+npm install angular-animals
 ```
 
 Register the component globally (inside `main.js`):
 
 ```javascript
-import Animal from "react-animals";
+import Animal from "angular-animals";
 ```
 
 Once you've successfully imported the component, simply add it to a file:
@@ -101,7 +102,7 @@ This will make the avatar do a repeated dancing animation. You can apply this pr
 
 ## All customizations
 
-Below are some examples of react-animals that use multiple customization props at once:
+Below are some examples of angular-animals that use multiple customization props at once:
 
 ```html
 <!--Alligator image, rounded square shape, random color, 70px size-->
